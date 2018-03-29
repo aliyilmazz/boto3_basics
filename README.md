@@ -24,4 +24,5 @@ python3 bototest.py <flags>
 
 flags:
 -monitorall: shows all files inside bucket named 'test_bucket_uuid' within module.
+
 -deleteall: deletes all files inside bucket named 'test_bucket_uuid' within module.
